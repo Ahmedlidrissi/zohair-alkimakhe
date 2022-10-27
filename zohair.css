@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(111, 231, 231);
+}
+
+
+
+.mk3{
+    font-family: 'Raleway', sans-serif;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    padding-left: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.mk4{
+    font-family: 'Raleway', sans-serif;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    padding-left: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 200px;
+}
+.mk5{
+    background-color: aqua;
+    border: 1px;
+    font-size: 200px;
+    margin-top: 500px;
+    margin-bottom: 200px;
+    margin-left: 300px;
+    margin-right: 200px;
+    border-top: 150px;
+
+}
+.mk5:hover{
+    background-color: black;
+    color: white;
+
+}
